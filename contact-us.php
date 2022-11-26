@@ -1,6 +1,7 @@
 <?php
 
 include_once('header.php');	
+echo'<link rel="canonical" href="https://buynex.info/contact-us" />';
 echo'
           
             

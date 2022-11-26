@@ -14,6 +14,7 @@ if(isset($_POST['amount'])){
 			}
 		
 include_once('header.php');		
+echo'<link rel="canonical" href="https://buynex.info/calculator" />';
 echo'
 
     
