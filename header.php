@@ -13,6 +13,8 @@ echo'
 
 	<!-- Basic Page Needs
      ================================================== -->
+	 <meta name="googlebot" content="index, follow">
+     <meta name="robots" content="index, follow">
 	 <meta charset="utf-8">
 	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
      <title>buynex | Home</title>
