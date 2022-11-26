@@ -6,8 +6,8 @@ $fee=new ManageFees();
 $setting = array(
 'paged_item' => 2
 );
-
-$page = $_GET['page'];
+if(isset($_GET['page'])){
+$page = $_GET['page'];}
 if(empty($page)){$page = 1;} 
 $start = ($page - 1) * $setting['paged_item'];
 $qstart=$start;
