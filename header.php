@@ -111,7 +111,7 @@ echo'
 					<!-- HEADER INNER -->
 					<div class="header clearfix">
 						
-						<a href="index" class="logo"><img src="images/logo2.png" alt=""></a>
+						<a href="index" class="logo"><img src="images/logo2.png" alt=""  style="width:170px;height:100px;"></a>
 						
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-nav" aria-expanded="false">
 							<span class="sr-only">cahnge</span>
