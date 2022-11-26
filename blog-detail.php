@@ -10,7 +10,7 @@ foreach($StudentList as $studentProp)
 					 $body=$studentProp['body'];
 					 }
 echo'
-
+<link rel="canonical" href="https://buynex.info/blog-detail?GUID='.$id.'"/>
   <section class="subpage-header">
 				<div class="container">
 					<div class="site-title clearfix">
