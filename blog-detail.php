@@ -1,16 +1,18 @@
 <?php
-include_once('header.php');
+
 include_once('main.php');
 $fee=new ManageFees();
 $id=$_GET['GUID'];
+echo'<link rel="canonical" href="https://buynex.info/blog-detail?GUID='.$id.'"/>';
 $StudentList = $fee->Getblogdetid($id);
 foreach($StudentList as $studentProp)
 					{$pic=$studentProp['pic'];
 					 $subject=$studentProp['subject'];
 					 $body=$studentProp['body'];
 					 }
+					 include_once('header.php');
 echo'
-<link rel="canonical" href="https://buynex.info/blog-detail?GUID='.$id.'"/>
+
   <section class="subpage-header">
 				<div class="container">
 					<div class="site-title clearfix">
