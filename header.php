@@ -21,6 +21,7 @@ echo'
      <meta name="description" content="invest and A fixed and monthly income">
      <meta name="keywords" content="invest and A fixed and monthly income">
      <meta name="author" content="invest and A fixed and monthly income">
+	 <link rel="canonical" href="https://buynex.info'.$_SERVER['REQUEST_URI'].'" />
 	 
 	 <!-- Mobile Specific Metas
      ================================================== -->
