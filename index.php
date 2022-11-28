@@ -216,7 +216,7 @@ You can withdraw your interest on the 1st of every month.</p>
 						</div>
 						<div class="col-md-6 animate fadeInRight">
 							<div class="video-widget">
-								<img src="images/video-thumb.jpg" class="img-shadow" alt="">
+								<img src="images/video-thumb.jpg" class="img-shadow" alt="invest your money in the most trustable investment system">
 								<a href="http://vimeo.com/36031564" class="fancybox-media"><i class="fa fa-play"></i></a>
 							</div>
 						</div>
@@ -231,7 +231,7 @@ You can withdraw your interest on the 1st of every month.</p>
 				<div class="container">
 					<div class="two-items-carousel owl-carousel">
 						<div class="image-and-text-box animate fadeInLeft">
-							<div class="bordered-thumb"><a href="services"><img src="images/img1.jpg" alt=""></a></div>
+							<div class="bordered-thumb"><a href="services"><img src="images/img1.jpg" alt="Buynex team"></a></div>
 							<h3><a href="services">An expert team...</a></h3>
 							<p>Buynex never jokes with his name, credit and reputation.
 By using an elite team with experience and knowledge in the field of capital growth, Buynex is able to handle its most important task, which is to protect your capital and pay monthly interest</p>
@@ -243,10 +243,10 @@ Calculating profit is very simple.
 Run your phone s calculator.
 Multiply the investment number by 4.8% , what appears on the calculator screen is the amount of your profit in a month.
 In addition, you can use Buynex s exclusive calculator from your account dashboard to calculate the monthly profit</p>
-							<div class="bordered-thumb"><a href="services"><img src="images/img2.jpg" alt=""></a></div>
+							<div class="bordered-thumb"><a href="services"><img src="images/img2.jpg" alt="estimation of our investment system"></a></div>
 						</div>
 						<div class="image-and-text-box">
-							<div class="bordered-thumb"><a href="services"><img src="images/img3.jpg" alt=""></a></div>
+							<div class="bordered-thumb"><a href="services"><img src="images/img3.jpg" alt="ask buynex what you want,you dear investor!"></a></div>
 							<h3><a href="services">Frequently asked questions</a></h3>
 							<p>Most of the questions that dear users have, have been brought down and answered in a little bit.
 You can read the section below to save time, most of your questions are there.
@@ -257,10 +257,10 @@ If you do not find your answer, contact us</p>
 							<p> Well, ofcours , answering on social networks will not be 24 hours a day.
 Our colleagues rest like you.
 Your messages on Buynex social networks will be answered up to 12 hours later</p>
-							<div class="bordered-thumb"><a href="services"><img src="images/img4.jpg" alt=""></a></div>
+							<div class="bordered-thumb"><a href="services"><img src="images/img4.jpg" alt="we will respect your investment"></a></div>
 						</div>
 						<div class="image-and-text-box">
-							<div class="bordered-thumb"><a href="services"><img src="images/img5.jpg" alt=""></a></div>
+							<div class="bordered-thumb"><a href="services"><img src="images/img5.jpg" alt="Contact investment system|Buynex"></a></div>
 							<h3><a href="services">How to contact us</a></h3>
 							<p> Online chat is answered 24 hours a day . We will answer your phone call 3 hours a day, from 16:30 to 19:30 with the phone number listed at the top of the site or on the contact page.</p>
 						</div>
@@ -268,7 +268,7 @@ Your messages on Buynex social networks will be answered up to 12 hours later</p
 							<h3><a href="services">Employing strong advisors</a></h3>
 							<p>Buynex Investment Group is trying to hire more consultants from all over the world, so that it can give advice to dear users in all living languages   of the world.
 If you think you can cooperate with Buynex as a consultant, send us a message.</p>
-							<div class="bordered-thumb"><a href="services"><img src="images/img6.jpg" alt=""></a></div>
+							<div class="bordered-thumb"><a href="services"><img src="images/img6.jpg" alt="consultant investment in buynex"></a></div>
 						</div>
 					</div>
 				</div>
@@ -373,8 +373,8 @@ So far, this is the Buynex family statistics</p>
 					<div class="row">
 						<div class="col-md-6 animate fadeInLeft">
 							<ul class="image-list-classic ">
-								<li><img src="images/who-is-behind-img1.jpg" alt=""></li>
-								<li><img src="images/who-is-behind-img2.jpg" alt=""></li>
+								<li><img src="images/who-is-behind-img1.jpg" alt="experienced investor"></li>
+								<li><img src="images/who-is-behind-img2.jpg" alt="age of buynex"></li>
 							</ul>
 						</div>
 						<div class="col-md-6 animate fadeInRight">
@@ -677,7 +677,7 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 					
 					<div class="single-item-carousel owl-carousel classic-arrows">
 						<div class="row">
-							<div class="col-md-5 animate fadeInLeft"><img src="images/meet-our-advisors-img1.jpg" alt=""></div>
+							<div class="col-md-5 animate fadeInLeft"><img src="images/meet-our-advisors-img1.jpg" alt="regard your concentration in money working"></div>
 							<div class="col-md-7 animate fadeInRight"> 
 								<div class="meet-advisors-content">
 									<h3>David Fernando<span>Founder & CEO</span></h3>
@@ -692,7 +692,7 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-md-5"><img src="images/meet-our-advisors-img2.jpg" alt=""></div>
+							<div class="col-md-5"><img src="images/meet-our-advisors-img2.jpg" alt="Communication with buynex"></div>
 							<div class="col-md-7">
 								<div class="meet-advisors-content">
 									<h3>Ashley Hardy<span>Chief Marketing Officer</span></h3>
@@ -707,7 +707,7 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-md-5"><img src="images/meet-our-advisors-img3.jpg" alt=""></div>
+							<div class="col-md-5"><img src="images/meet-our-advisors-img3.jpg" alt="prosperous money investment"></div>
 							<div class="col-md-7">
 								<div class="meet-advisors-content">
 									<h3>Fernando Torres<span>Administrator</span></h3>
@@ -732,19 +732,21 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 				<div class="container">
 					<div class="heading text-center animate bounceIn">
 						<h2>Happy Customers</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-					</div>
+						<p>Dear investor 
+you can leave us your comments, suggestions and criticisms in buynex social medias.Our experts will review your comments and publish in this section as soon as possible</p>
+				<p>Your comments will encourage us as well as correct the bugs and increase the efficiency of the site.
+Thank you</p>	</div>
 					<div class="row">
 						<div class="col-md-6">
 							<div class="testimonial animate fadeInUp">
 								<div class="testimonial-content">
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+									<p>After watching your educational videos, my work became really easy and it also speeds up our decision-making✌️</p>
 								</div>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="testimonials-author">
-											<img class="img-circle" src="images/review-author-img.png" alt="">
-											<p>Ashley Hardy<span>Chief Marketing Officer</span></p>
+											<img class="img-circle" src="images/review-author-img.png" alt="idea and notion of our investors">
+											<p>Miss Anna<span>Chief Marketing Officer</span></p>
 										</div>
 									</div>
 									<div class="col-md-6">
@@ -764,13 +766,13 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 						<div class="col-md-6">
 							<div class="testimonial animate fadeInUp" data-delay="100">
 								<div class="testimonial-content">
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+									<p>I received the monthly profit this month on time, thank you</p>
 								</div>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="testimonials-author">
-											<img class="img-circle" src="images/review-author-img.png" alt="">
-											<p>David Fernando<span>Chief Marketing Officer</span></p>
+											<img class="img-circle" src="images/review-author-img.png" alt="what do you know about our investors">
+											<p>Alison Wu<span>Chief Marketing Officer</span></p>
 										</div>
 									</div>
 									<div class="col-md-6">
@@ -799,8 +801,7 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							<li class="cd-testimonials-item">
 								<div class="testimonial">
 									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+										<p>Really, without capital, a person can t earn anywhere except the referral part of Buynex 😃</p>
 									</div>
 									<div class="row">
 										<div class="col-md-6">
@@ -824,16 +825,48 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 								</div>
 							</li>
 
+							
+							
+							
 							<li class="cd-testimonials-item">
 								<div class="testimonial">
 									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+										<p>I am very satisfied with the telephone support section of your site, they are very patient and responsive, thank you</p>
 									</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
 												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
+												<p>Jorge Santos<span>Chief Marketing Officer</span></p>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="text-right">
+												<ul class="rating">
+													<li><i class="fa fa-star"></i></li>
+													<li><i class="fa fa-star"></i></li>
+													<li><i class="fa fa-star"></i></li>
+													<li><i class="fa fa-star"></i></li>
+													<li><i class="fa fa-star"></i></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+
+						
+
+							<li class="cd-testimonials-item">
+								<div class="testimonial">
+									<div class="testimonial-content">
+										<p>sIt is true that the profit is lower than the previous site that I was a user of, but I did not have the sense of security that I have with your site there</p>
+									</div>
+									<div class="row">
+										<div class="col-md-6">
+											<div class="testimonials-author">
+												<img class="img-circle" src="images/review-author-img.png" alt="">
+												<p>Yuan jing<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
 										<div class="col-md-6">
@@ -854,13 +887,13 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							<li class="cd-testimonials-item">
 								<div class="testimonial">
 									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+										<p>The best part of your site is the online chat, it s great</p>
 									</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
 												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
+												<p>Dana Fraser<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
 										<div class="col-md-6">
@@ -881,14 +914,13 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							<li class="cd-testimonials-item">
 								<div class="testimonial">
 									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+										<p>Your educational videos guided us very well and clearly</p>
 									</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
 												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
+												<p>Wendy Kwon<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
 										<div class="col-md-6">
@@ -909,13 +941,13 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							<li class="cd-testimonials-item">
 								<div class="testimonial">
 									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+										<p>Hello, I wanted to thank you for paying the monthly interest on the same date mentioned on the site and without delay</p>
 									</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
 												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
+												<p>Andreas Festring<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
 										<div class="col-md-6">
@@ -936,14 +968,13 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							<li class="cd-testimonials-item">
 								<div class="testimonial">
 									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+										<p>I have the best job in the world, by introducing buynex to others, others invest and I get referral bonus 😎</p>
 									</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
 												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
+												<p>Robin Kraus<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
 										<div class="col-md-6">
@@ -964,148 +995,13 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							<li class="cd-testimonials-item">
 								<div class="testimonial">
 									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+										<p>My feeling is that Buynex can be trusted, the behavior of each site is enough to judge</p>
 									</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
 												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
-											</div>
-										</div>
-										<div class="col-md-6">
-											<div class="text-right">
-												<ul class="rating">
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="cd-testimonials-item">
-								<div class="testimonial">
-									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-									</div>
-									<div class="row">
-										<div class="col-md-6">
-											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
-											</div>
-										</div>
-										<div class="col-md-6">
-											<div class="text-right">
-												<ul class="rating">
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="cd-testimonials-item">
-								<div class="testimonial">
-									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-									</div>
-									<div class="row">
-										<div class="col-md-6">
-											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
-											</div>
-										</div>
-										<div class="col-md-6">
-											<div class="text-right">
-												<ul class="rating">
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="cd-testimonials-item">
-								<div class="testimonial">
-									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-									</div>
-									<div class="row">
-										<div class="col-md-6">
-											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
-											</div>
-										</div>
-										<div class="col-md-6">
-											<div class="text-right">
-												<ul class="rating">
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="cd-testimonials-item">
-								<div class="testimonial">
-									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-									</div>
-									<div class="row">
-										<div class="col-md-6">
-											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
-											</div>
-										</div>
-										<div class="col-md-6">
-											<div class="text-right">
-												<ul class="rating">
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-													<li><i class="fa fa-star"></i></li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="cd-testimonials-item">
-								<div class="testimonial">
-									<div class="testimonial-content">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-									</div>
-									<div class="row">
-										<div class="col-md-6">
-											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
-												<p>David Fernando<span>Chief Marketing Officer</span></p>
+												<p>Su_jin Lee<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
 										<div class="col-md-6">
@@ -1125,7 +1021,7 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 						</ul>
 					</div>
 
-					<a href="javascript:void(0);" class="close-btn">خروج</a>
+					<a href="javascript:void(0);" class="close-btn">out</a>
 					
 				</div>
 				
