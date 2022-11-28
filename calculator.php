@@ -1,5 +1,5 @@
 <?php
-
+include_once('header.php');	
 if(isset($_POST['amount'])){
 	$amountrr=$_POST['amount'];
 			$percentage=4.8;
@@ -13,8 +13,8 @@ if(isset($_POST['amount'])){
             $amount2 = ($percentage / 100) * $totalWidth;
 			}
 		
-include_once('header.php');		
-echo'<link rel="canonical" href="https://buynex.info/calculator" />';
+	
+
 echo'
 
     
