@@ -19,7 +19,15 @@ echo'
 	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
      <title>buynex | Home</title>
      <meta name="description" content="invest and A fixed and monthly income">
-     <meta name="keywords" content="invest and A fixed and monthly income">
+    <meta name="keywords" content="Buynex,Investment Systems,Capital stock,Private investment,Interest rate">
+<meta property="og:type" content="article" />
+<meta property="og:title" content="BUYNEX" />
+<meta property="og:description" content="Invest your money in the best solver problem"/>
+    <meta property="og:image" content="https://buynex.info/images/logo2.png" />
+    <meta property="og:url" content="https://buynex.info/" />
+    <meta property="og:site_name" content="Buynex" />
+    <meta name="og:region" content="cupertino" />
+    <meta name="og:country-name" content="California" />
      <meta name="author" content="invest and A fixed and monthly income">
 	 <link rel="canonical" href="https://buynex.info'.$_SERVER['REQUEST_URI'].'"/>
 	 
