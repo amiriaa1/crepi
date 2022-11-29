@@ -81,7 +81,15 @@ echo'
     ================================================== -->
 	<script src="js/modernizr.js"></script>
 	 <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="403477c5-f1d2-4a1c-8c74-5e971494a376";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D3P6K2169V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
 
+  gtag("config", "G-D3P6K2169V");
+</script>
 	
 </head>
 <body class="fixed-header">
