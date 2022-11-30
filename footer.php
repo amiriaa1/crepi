@@ -42,44 +42,22 @@ echo'
 										</ul>
 									</div>
 								</div>
-								<div class="col-md-6">
-									<div class="twitter-widget clearfix">
-										<h4>Twitter Feeds</h4>
-										<div class="tweet">
-											<i class="icon-twitter-1"></i>
-											<p><a href="#">Lorem ipsum dolor sit amet, consectetur adi pisi cing elit, sed do eiusmod tempor exercitationemut labore. </a>
-											<span>about a month ago</span>
-											</p>
-										</div>
-										<div class="tweet">
-											<i class="icon-twitter-1"></i>
-											<p><a href="#">Lorem ipsum dolor sit amet, consectetur adi pisi cing elit, sed do eiusmod tempor exercitationemut labore.</a>
-											<span>about a month ago</span>
-											</p>
-										</div>
-									</div>
-								</div>
+								
+								
+								
+								
 							</div>
 						</div>
 						<div class="footer-right">
-							<div class="newsletter-widget">
-								<h4>Our Newsletter</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adi pisi cing elit, sed do eiusmod tempor exercitationemut labore.</p>
-								<div class="form">
-									<p class="subscribe_success" id="subscribe_success" style="display:none;"></p>
-									<p class="subscribe_error" id="subscribe_error" style="display:none;"></p>
-									<form name="subscribe_form" id="subscribe_form" method="post" action="#" onSubmit="return false">
-										<input type="text" data-delay="300" placeholder="name" name="subscribe_name" id="subscribe_name" onKeyPress="removeChecks();" class="input" >
-										<input type="text" data-delay="300" placeholder="email" name="subscribe_email" id="subscribe_email" onKeyPress="removeChecks();" class="input" >
-										<button class="btn btn-primary" name="Subscribe" type="submit" data-text="submit" ">submit</button>
-									</form>
-								</div>
-								<ul class="social">
+							
+							<ul class="social">
 									<li class="animate bounceIn"><a href="#." class="facebook"><i class="icon-facebook-1"></i></a></li>
 									<li class="animate bounceIn" data-delay="100"><a href="#." class="twitter"><i class="icon-twitter-1"></i></a></li>
 									<li class="animate bounceIn" data-delay="200"><a href="#." class="google-plus"><i class="icon-google"></i></a></li>
 									<li class="animate bounceIn" data-delay="300"><a href="#." class="linkedin"><i class="icon-linkedin3"></i></a></li>
 								</ul>
+								
+								
 							</div>
 						</div>
 					</div>
