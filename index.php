@@ -1031,38 +1031,7 @@ Thank you</p>	</div>
 			
 			
 			
-			<!-- REQUEST A CALLBACK -->
-            <section>
-				<div class="container">
-					<div class="request-a-callback clearfix animate fadeInUp">
-						<div class="request-a-callback-content">
-							<h3>Request a Call Back</h3>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
-							<p><strong>Lorem ipsum:</strong>phone +11 987 654 3210 ipsum quia dolor sit amet, consectetur.</p>
-						</div>
-						<div class="request-a-callback-form">
-							<form>
-								<input type="text" placeholder="name">
-								<input type="text" placeholder="email">
-								<input type="text" placeholder="mobile">
-								<div class="styled-select">
-									<select>
-										<option>DEC:</option>
-										<option>I would like to discuss</option>
-										<option>I would like to discuss</option>
-										<option>I would like to discuss</option>
-										<option>I would like to discuss</option>
-									</select>
-								</div>
-								<button data-text="Send" class="btn btn-primary">Send</button>
-							</form>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- / REQUEST A CALLBACK -->
-			
-			
+		
       		
 			
 
