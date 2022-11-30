@@ -51,10 +51,12 @@ echo'
 						<div class="footer-right">
 							
 							<ul class="social">
-									<li class="animate bounceIn"><a href="#." class="facebook"><i class="icon-facebook-1"></i></a></li>
-									<li class="animate bounceIn" data-delay="100"><a href="#." class="twitter"><i class="icon-twitter-1"></i></a></li>
-									<li class="animate bounceIn" data-delay="200"><a href="#." class="google-plus"><i class="icon-google"></i></a></li>
-									<li class="animate bounceIn" data-delay="300"><a href="#." class="linkedin"><i class="icon-linkedin3"></i></a></li>
+									<li class="animate bounceIn"><a href="https://www.facebook.com/profile.php?id=100086983247392&mibextid=ZbWKwL" class="facebook"><i class="icon-facebook-1"></i></a></li>
+									<li class="animate bounceIn" data-delay="100"><a href="https://twitter.com/buynex1?s=09" class="twitter"><i class="icon-twitter-1"></i></a></li>
+									<li class="animate bounceIn" data-delay="200"><a href="https://instagram.com/buynex.official" class="google-plus"><i class="icon-instagram"></i></a></li>
+									<li class="animate bounceIn" data-delay="300"><a href="https://www.reddit.com/u/buynex?utm_medium=android_app&utm_source=share" class="linkedin"><i class="icon-reddit"></i></a></li>
+
+									<li class="animate bounceIn" data-delay="300"><a href="https://www.youtube.com/@buynexofficial" class="linkedin"><i class="icon-youtube"></i></a></li>
 								</ul>
 								
 								

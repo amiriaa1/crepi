@@ -1962,6 +1962,18 @@
 .icon-linkedin-square:before {
     content: "\f08c";
 }
+
+.icon-instagram:before {
+    content: "\f16d";
+}
+
+.icon-youtube:before {
+    content: "\f167";
+}
+
+.icon-reddit:before {
+    content: "\f1a1";
+}
 .icon-thumb-tack:before {
     content: "\f08d";
 }
