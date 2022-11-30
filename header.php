@@ -127,7 +127,7 @@ echo'
 					<!-- HEADER INNER -->
 					<div class="header clearfix">
 						
-						<a href="index" class="logo"><img src="images/logo2.png" alt="BUYNEX|investment system" style="width:170px;height:100px;"></a>
+					<a href="index" class="logo" title="invest your money in buynex"><img src="images/logo2.png" alt="BUYNEX|investment system" style="width:170px;height:100px;"></a>
 						
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-nav" aria-expanded="false">
 							<span class="sr-only">cahnge</span>
@@ -154,13 +154,13 @@ echo'
 						
 						<nav class="main-nav navbar-collapse collapse" id="primary-nav">
 							<ul class="nav nav-pills">
-								<li class="active"><a href="index">Home</a>
+								<li class="active" ><a href="index" title="the most trustable investment system">Home</a>
 									
 								</li>
-								<li><a href="calculator">Calculator</a></li>
-								<li><a href="contact-us">contact us</a></li>
-								<li class="dropdown"><a href="blog">Blog</a>
-									<li class="dropdown"><a href="http://my.buynex.info/register">sign up</a>
+								<li><a href="calculator" title="investment without calculation means nothing">Calculator</a></li>
+								<li><a href="contact-us" title="communicate in easiest way">contact us</a></li>
+								<li class="dropdown"><a href="blog" title="more information about buynex">Blog</a>
+									<li class="dropdown"><a href="http://my.buynex.info/register" title="sign up in buynex">sign up</a>
 									<li class="dropdown"><a href="http://my.buynex.info/login">Login</a>
 								</li>
 								

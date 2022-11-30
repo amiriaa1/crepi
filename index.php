@@ -74,7 +74,7 @@ window.onclick = function(event) {
 }
 </script>
 
-								<a href="contact-us" class="btn btn-default" data-text="CONTACT US">CONTACT US</a>
+								<a href="contact-us" class="btn btn-default" data-text="CONTACT US" title="getting to buynex">CONTACT US</a>
 							</div>
 						</div>
 					</li>
@@ -176,10 +176,10 @@ window.onclick = function(event) {
 						<span class="cd-marker item-1"></span>
 						
 						<ul>
-							<li  dir="ltr" align="left" class="selected"><a href="#0"><div class="slide-number">1</div>fixed and monthly<span>income</span></a></li>
-							<li><a href="#0"><div class="slide-number">2</div> Friendly<span>24/7 Support</span></a></li>
-							<li><a href="#0"><div class="slide-number">3</div> Honesty<span>is everything...</span></a></li>
-							<li><a href="#0"><div class="slide-number">4</div>automatic profit<span>withdrawal system</span></a></li>
+							<li  dir="ltr" align="left" class="selected"><a href="#0" title="make your future salary out of your today s investment"><div class="slide-number">1</div>fixed and monthly<span>income</span></a></li>
+							<li><a href="#0" title="buynex is at your hand"><div class="slide-number">2</div> Friendly<span>24/7 Support</span></a></li>
+							<li><a href="#0" title="honesty in investment is the most important thing"><div class="slide-number">3</div> Honesty<span>is everything...</span></a></li>
+							<li><a href="#0" title="regular money payback"><div class="slide-number">4</div>automatic profit<span>withdrawal system</span></a></li>
 						</ul>
 					</nav> 
 				</div>
@@ -211,12 +211,12 @@ You can withdraw your interest on the 1st of every month.</p>
 							
 							
 							<div class="height-20"></div>
-							<a href="about-us" class="btn btn-bordered-dark" data-text="Read More">Read More</a>
+							<a href="#" class="btn btn-bordered-dark" data-text="Read More" title="catch more information">Read More</a>
 							<div class="height-40"></div>
 						</div>
 						<div class="col-md-6 animate fadeInRight">
 							<div class="video-widget">
-								<img src="images/video-thumb.jpg" class="img-shadow" alt="invest your money in the most trustable investment system">
+								<img src="images/expert-financial-team.jpg" class="img-shadow" alt="invest your money in the most trustable investment system">
 								<a href="http://vimeo.com/36031564" class="fancybox-media"><i class="fa fa-play"></i></a>
 							</div>
 						</div>
@@ -231,44 +231,44 @@ You can withdraw your interest on the 1st of every month.</p>
 				<div class="container">
 					<div class="two-items-carousel owl-carousel">
 						<div class="image-and-text-box animate fadeInLeft">
-							<div class="bordered-thumb"><a href="services"><img src="images/img1.jpg" alt="Buynex team"></a></div>
-							<h3><a href="services">An expert team...</a></h3>
+							<div class="bordered-thumb"><a href="#" title="what can buynex do for your investment"><img src="images/img1.jpg" alt="Buynex team"></a></div>
+							<h3><a href="#">An expert team...</a></h3>
 							<p>Buynex never jokes with his name, credit and reputation.
 By using an elite team with experience and knowledge in the field of capital growth, Buynex is able to handle its most important task, which is to protect your capital and pay monthly interest</p>
 						</div>
 						<div class="image-and-text-box animate fadeInRight">
-							<h3><a href="services">How to calculate your profit</a></h3>
+							<h3><a href="#">How to calculate your profit</a></h3>
 							<p>Calculating profit is very simple.
 Calculating profit is very simple.
 Run your phone s calculator.
 Multiply the investment number by 4.8% , what appears on the calculator screen is the amount of your profit in a month.
 In addition, you can use Buynex s exclusive calculator from your account dashboard to calculate the monthly profit</p>
-							<div class="bordered-thumb"><a href="services"><img src="images/img2.jpg" alt="estimation of our investment system"></a></div>
+							<div class="bordered-thumb"><a href="#"><img src="images/img2.jpg" alt="estimation of our investment system"></a></div>
 						</div>
 						<div class="image-and-text-box">
-							<div class="bordered-thumb"><a href="services"><img src="images/img3.jpg" alt="ask buynex what you want,you dear investor!"></a></div>
-							<h3><a href="services">Frequently asked questions</a></h3>
+							<div class="bordered-thumb"><a href="#"><img src="images/questions-about-investing.jpg" alt="ask buynex what you want,you dear investor!"></a></div>
+							<h3><a href="#">Frequently asked questions</a></h3>
 							<p>Most of the questions that dear users have, have been brought down and answered in a little bit.
 You can read the section below to save time, most of your questions are there.
 If you do not find your answer, contact us</p>
 						</div>
 						<div class="image-and-text-box">
-							<h3><a href="services">Communication in social network</a></h3>
+							<h3><a href="#">Communication in social network</a></h3>
 							<p> Well, ofcours , answering on social networks will not be 24 hours a day.
 Our colleagues rest like you.
 Your messages on Buynex social networks will be answered up to 12 hours later</p>
-							<div class="bordered-thumb"><a href="services"><img src="images/img4.jpg" alt="we will respect your investment"></a></div>
+							<div class="bordered-thumb"><a href="#"><img src="images/Communication-investor.jpg" alt="we will respect your investment"></a></div>
 						</div>
 						<div class="image-and-text-box">
-							<div class="bordered-thumb"><a href="services"><img src="images/img5.jpg" alt="Contact investment system|Buynex"></a></div>
-							<h3><a href="services">How to contact us</a></h3>
+							<div class="bordered-thumb"><a href="#"><img src="images/img5.jpg" alt="Contact investment system|Buynex"></a></div>
+							<h3><a href="#">How to contact us</a></h3>
 							<p> Online chat is answered 24 hours a day . We will answer your phone call 3 hours a day, from 16:30 to 19:30 with the phone number listed at the top of the site or on the contact page.</p>
 						</div>
 						<div class="image-and-text-box">
-							<h3><a href="services">Employing strong advisors</a></h3>
+							<h3><a href="#">Employing strong advisors</a></h3>
 							<p>Buynex Investment Group is trying to hire more consultants from all over the world, so that it can give advice to dear users in all living languages   of the world.
 If you think you can cooperate with Buynex as a consultant, send us a message.</p>
-							<div class="bordered-thumb"><a href="services"><img src="images/img6.jpg" alt="consultant investment in buynex"></a></div>
+							<div class="bordered-thumb"><a href="#"><img src="images/img6.jpg" alt="consultant investment in buynex"></a></div>
 						</div>
 					</div>
 				</div>
@@ -385,8 +385,9 @@ So far, this is the Buynex family statistics</p>
 							<div id="accordion" role="tablist" aria-multiselectable="true">
 								<div class="toggle">
 									<div class="toggle-heading" role="tab">
-										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-										  <i dir="ltr" align="left" class="fa fa-plus"></i>? How to register in buynex </a>
+										<a role="button" data-toggle="collapse" title="Start your Business" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+<i dir="ltr" align="left" class="fa fa-plus"></i>? How to register in buynex </a>
+
 									</div>
 									<div id="collapseOne" class="panel-collapse collapse" role="tabpanel">
 										<div class="toggle-body">
@@ -397,8 +398,8 @@ This code will be sent to your email</p>
 								</div>
 								<div class="toggle">
 									<div class="toggle-heading" role="tab">
-										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
-										  <i dir="ltr" align="left" class="fa fa-minus"></i>What is the advantage of investing in buynex compared to similar sites</a>
+										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" title="pros and cons of investing" aria-controls="collapseOne">
+<i dir="ltr" align="left" class="fa fa-minus"></i>What is the advantage of investing in buynex compared to similar sites</a>
 									</div>
 									<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel">
 										<div class="toggle-body">
@@ -408,8 +409,8 @@ This code will be sent to your email</p>
 								</div>
 								<div class="toggle" >
 									<div class="toggle-heading" role="tab">
-										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseOne">
-										  <i dir="ltr" align="left" class="fa fa-plus"></i>? How much interest does Buynex pay monthly</a>
+										<a role="button" data-toggle="collapse" data-parent="#accordion" title="your profit out of buynex" href="#collapseThree" aria-expanded="true" aria-controls="collapseOne">
+<i dir="ltr" align="left" class="fa fa-plus"></i>? How much interest does Buynex pay monthly</a>
 									</div>
 									<div id="collapseThree" class="panel-collapse collapse" role="tabpanel">
 										<div class="toggle-body">
@@ -420,8 +421,8 @@ This code will be sent to your email</p>
 								
 								<div class="toggle" >
 									<div class="toggle-heading" role="tab">
-										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapseOne">
-										  <i dir="ltr" align="left" class="fa fa-plus"></i>? Can the capital be withdrawn before one year</a>
+										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" title="some important information about buynex" aria-expanded="true" aria-controls="collapseOne">
+<i dir="ltr" align="left" class="fa fa-plus"></i>? Can the capital be withdrawn before one year</a>
 									</div>
 									<div id="collapse5" class="panel-collapse collapse" role="tabpanel">
 										<div class="toggle-body">
@@ -432,8 +433,8 @@ This code will be sent to your email</p>
 								
 								<div class="toggle" >
 									<div class="toggle-heading" role="tab">
-										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapseOne">
-										  <i dir="ltr" align="left" class="fa fa-plus"></i>? What should be the minimum investment amount</a>
+										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" title="minimum amount of your investment" aria-controls="collapseOne">
+<i dir="ltr" align="left" class="fa fa-plus"></i>? What should be the minimum investment amount</a>
 									</div>
 									<div id="collapse6" class="panel-collapse collapse" role="tabpanel">
 										<div class="toggle-body">
@@ -469,8 +470,9 @@ This code will be sent to your email</p>
 								
 									<div class="toggle" >
 									<div class="toggle-heading" role="tab">
-										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse12" aria-expanded="true" aria-controls="collapseOne">
-										  <i dir="ltr" align="left" class="fa fa-plus"></i>? Does the referral profit from one person go to the referring person, or does anyone who is referred by these persons also receive the first benefit</a>
+										<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse12" title="knowing more about referral expense" aria-expanded="true" aria-controls="collapseOne">
+<i dir="ltr" align="left" class="fa fa-plus"></i>? Does the referral profit from one person go to the referring person, or does anyone who is referred by these persons also receive the first benefit</a>
+
 									</div>
 									<div id="collapse12" class="panel-collapse collapse" role="tabpanel">
 										<div class="toggle-body">
@@ -692,7 +694,7 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-md-5"><img src="images/meet-our-advisors-img2.jpg" alt="Communication with buynex"></div>
+							<div class="col-md-5"><img src="images/meet-our-advisors-buynex-investor-img2.jpg" alt="Communication with buynex"></div>
 							<div class="col-md-7">
 								<div class="meet-advisors-content">
 									<h3>Ashley Hardy<span>Chief Marketing Officer</span></h3>
@@ -707,7 +709,7 @@ Users who intend to deposit more than one million dollars,<br> get confirmation 
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-md-5"><img src="images/meet-our-advisors-img3.jpg" alt="prosperous money investment"></div>
+							<div class="col-md-5"><img src="images/meet-our-advisors-investment-img3.jpg" alt="prosperous money investment"></div>
 							<div class="col-md-7">
 								<div class="meet-advisors-content">
 									<h3>Fernando Torres<span>Administrator</span></h3>
