@@ -15,6 +15,14 @@
  $counts = $query->rowCount(); $result = $query->fetchAll();
  return $result; }
  
+ 
+ 
+ function GetStudentList3($query) { global $table_prefix;
+ 
+$query = $this->link->query("SELECT * FROM `blog` $query");
+
+$counts = $query->rowCount(); $result = $query->fetchAll();
+ return $result; }
 
 function Getblogdetid($id)
  { global $table_prefix; $query = $this->link->prepare("SELECT * FROM `blog`  WHERE aid=?"); 

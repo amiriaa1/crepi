@@ -1,6 +1,13 @@
 <?php
 
 
+include_once('main.php');
+$fee=new ManageFees();
+
+
+$query='ORDER BY aid DESC LIMIT 3';
+$StudentList = $fee->GetStudentList3($query);
+
 echo'
 
 <footer id="footer">
@@ -13,7 +20,10 @@ echo'
 		<div class="footer-logo animate fadeInLeft"><a href="index"><img src="images/logo2.png" alt=""   style="width:170px;height:100px;"></a></div>
 							</div>
 							<div class="col-md-9 col-sm-9">
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into</p>
+								<p  dir="ltr" align="left">Hasn t the time come to save the investment industry, this cradle of kindness from the clutches of scam and fraud sites??
+What is wrong with working honestly that others avoid?
+Let s benefit each other, let s make each other happy.
+Buynex will not bring you fabulous wealth, but it will help you to not disturb your peace and live a better life</p>
 							</div>
 						</div>
 					
@@ -22,24 +32,26 @@ echo'
 						<div class="footer-left">
 							<div class="footer-address-widget clearfix">
 								<ul>
-									<li><i class="icon-telephone114"></i>44-7700-312098+<a href="mailto:info@info.com">info@info.com</a></li>
-									<li><i class="icon-icons74"></i>lv23<span>cupertino</span></li>
+									<li><i class="icon-telephone114"></i>44-7700-312098+<a href="mailto:support@buynex.info">support@buynex.info</a></li>
+									<li><i class="icon-icons74"></i>lv23<span>London</span></li>
 								</ul>
 							</div>
 							<div class="row">
 								<div class="col-md-6">
 									<div class="usefull-links-widget clearfix">
-										<h4>Useful Links</h4>
+										<h4>Blog last posts</h4>
 										<ul>
-											<li><a href="index">Home</a></li>
-											<li><a href="about-us">Home</a></li>
-
+										';
+										foreach($StudentList as $studentProp)
+					{
+										echo'
+											<li   dir="ltr" align="left"><a href="blog-detail?GUID='.$studentProp['aid'].'">'.$studentProp['subject'].'</a></li>
+											
+';
+					}
+echo'
 										</ul>
-										<ul>
-											<li><a href="services">Home</a></li>
-											<li><a href="services">Home</a></li>
-
-										</ul>
+										
 									</div>
 								</div>
 								
