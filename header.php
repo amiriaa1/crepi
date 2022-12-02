@@ -90,7 +90,9 @@ echo'
 
   gtag("config", "G-D3P6K2169V");
 </script>
-	
+	<meta name="twitter:title" content="BUYNEX" />
+    <meta name="twitter:description" content="BUYNEX means safe investment" />
+    <meta name="twitter:image" content="https://buynex.info/images/logo2.png" />
 </head>
 <body class="fixed-header">
 	    	
