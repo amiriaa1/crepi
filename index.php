@@ -217,7 +217,7 @@ You can withdraw your interest on the 1st of every month.</p>
 						<div class="col-md-6 animate fadeInRight">
 							<div class="video-widget">
 								<img src="images/expert-financial-team.jpg" class="img-shadow" alt="invest your money in the most trustable investment system">
-								<a href="http://vimeo.com/36031564" class="fancybox-media"><i class="fa fa-play"></i></a>
+								<a href="images/buynex.2_fwog.mp4" class="fancybox-media"><i class="fa fa-play"></i></a>
 							</div>
 						</div>
 					</div>
