@@ -37,7 +37,7 @@ echo'
 							<div class="p-right-30">
 							<article class="blog-item">
 								<div class="blog-thumbnail">
-									<img alt="" src="images/news/large/'.$pic.'">
+									<img alt="" src="images/news/small/'.$pic.'">
 								</div>
 								<div class="blog-content">
 								<p dir="ltr" align="left">'.$subject.'</p>

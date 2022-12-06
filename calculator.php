@@ -1,18 +1,6 @@
 <?php
 include_once('header.php');	
-if(isset($_POST['amount'])){
-	$amountrr=$_POST['amount'];
-			$percentage=4.8;
-            $totalWidth=$amountrr;
-            $amount = ($percentage / 100) * $totalWidth;
-			}
-			if(isset($_POST['referral'])){
-	$referral=$_POST['referral'];
-			$percentage=0.5;
-            $totalWidth=$referral;
-            $amount2 = ($percentage / 100) * $totalWidth;
-			}
-		
+
 	
 
 echo'

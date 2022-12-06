@@ -1,5 +1,6 @@
 
 <?php
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$Operand1=$_POST['Operand1'];
 	$Operator=$_POST['1'];
@@ -15,15 +16,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	}
 	else{
 		/*Calculation begins from here.*/
-		if($Operator=="interest of 4.8%")
+		if($Operator=="Investor's monthly profit (4.8٪)")
 			$Result=(4.8 / 100) * $Operand1;
-		else if($Operator=="VIP user interest of sub user 0.25%")
+		else if($Operator=="VIP member's monthly profit (0.25٪)")
 			$Result=(0.25 / 100) * $Operand1;
-		else if($Operator=="refrral is 0.5")
+		else if($Operator=="Monthly referral bonus (0.5٪)")
 			$Result=(0.5 / 100) * $Operand1;
 		else if($Operator=="/")
 			$Result=$Operand1/$Operand2;
 	}
+	$Result2=number_format($Result, 0, '.', ',');
 } ?>
 <link rel="stylesheet" href="app.css">
 
@@ -58,9 +60,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			</div>
 			<div class="row justify-content-center mb-3">
 				<div class="col-auto">
-					<input class="btn btn-success fs-2" type="submit" name="1" id="1" value="interest of 4.8%">
-					<input class="btn btn-success fs-2" type="submit" name="1" id="1" value="VIP user interest of sub user 0.25%">
-					<input class="btn btn-success fs-2" type="submit" name="1" id="1" value="refrral is 0.5">
+					<input class="btn btn-success fs-2" type="submit" name="1" id="1" value="Investor's monthly profit (4.8٪)">
+					<input class="btn btn-success fs-2" type="submit" name="1" id="1" value="VIP member's monthly profit (0.25٪)">
+					<input class="btn btn-success fs-2" type="submit" name="1" id="1" value="Monthly referral bonus (0.5٪)">
 				</div>
 			</div>
 		</form>
@@ -70,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			<div class="row justify-content-center">
 				<div class="col text-center">
 					<label for="Result" class="fs-4">Result</label>
-					<input id="Result" disabled="disabled" name="Result" type="number" step="any" class="form-control form-control-custom" value="<?php echo $Result; ?>">
+					<input id="Result" disabled="disabled" name="Result" type="text" step="any" class="form-control form-control-custom" value="<?php echo $Result2; ?>">
 				</div>
 			</div>
 		<?php } if(isset($Error)){?>
