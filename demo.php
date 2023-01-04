@@ -31,10 +31,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 echo'
 
-const input = document.querySelector("#Operand1");
+const input = document.querySelector("#number");
 input.addEventListener("keyup", function(e) {
   let value = e.target.value;
-  value = Operand1(value.replaceAll(",", ""));
+  value = Number(value.replaceAll(",", ""));
   if(isNaN(value)) {
     input.value = 0;
   }else {
@@ -48,7 +48,7 @@ input.addEventListener("keyup", function(e) {
  ?>
 
 
-
+<input type="text" id="number"/>
 
 <link rel="stylesheet" href="app.css">
 
