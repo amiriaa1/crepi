@@ -26,6 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			$Result=$Operand1/$Operand2;
 	}
 	$Result2=number_format($Result, 0, '.', ',');
+	$Operand11=number_format($Operand1, 0, '.', ',');
 } ?>
 <link rel="stylesheet" href="app.css">
 
@@ -54,7 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			<div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2 row-cols-xl-2 justify-content-center">
 				<div class="col text-center mb-3 mb-md-5">
 					<label for="Operand1" class="form-label fs-3">amount</label>
-					<input id="Operand1" name="Operand1" type="number" step="any" class="form-control form-control-custom" value="<?php echo isset($Operand1)?$Operand1:''; ?>">
+					<input id="Operand1" name="Operand1" type="number" step="any" class="form-control form-control-custom" value="<?php echo isset($Operand11)?$Operand11:''; ?>">
 				</div>
 			
 			</div>
