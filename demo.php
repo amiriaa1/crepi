@@ -26,8 +26,30 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			$Result=$Operand1/$Operand2;
 	}
 	$Result2=number_format($Result, 0, '.', ',');
-	$Operand1=number_format($Operand1, 0, '.', ',');
-} ?>
+	
+}
+
+echo'
+
+const input = document.querySelector("#Operand1");
+input.addEventListener("keyup", function(e) {
+  let value = e.target.value;
+  value = Operand1(value.replaceAll(",", ""));
+  if(isNaN(value)) {
+    input.value = 0;
+  }else {
+    const formatValue = value.toLocaleString("ko-KR");
+    input.value = formatValue;
+  }
+})
+
+';
+
+ ?>
+
+
+
+
 <link rel="stylesheet" href="app.css">
 
 <body>
