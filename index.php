@@ -743,7 +743,7 @@ Thank you</p>	</div>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="testimonials-author">
-											<img class="img-circle" src="images/review-author-img.png" alt="idea and notion of our investors">
+											<img class="img-circle" src="images/au/Miss.anna.buynex.png" alt="idea and notion of our investors">
 											<p>Miss Anna<span>Chief Marketing Officer</span></p>
 										</div>
 									</div>
@@ -769,7 +769,7 @@ Thank you</p>	</div>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="testimonials-author">
-											<img class="img-circle" src="images/review-author-img.png" alt="what do you know about our investors">
+											<img class="img-circle" src="images/au/review-author-img.png" alt="what do you know about our investors">
 											<p>Alison Wu<span>Chief Marketing Officer</span></p>
 										</div>
 									</div>
@@ -834,7 +834,7 @@ Thank you</p>	</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
+												<img class="img-circle" src="images/au/Jorge.santos.buynex.png" alt="">
 												<p>Jorge Santos<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
@@ -863,7 +863,7 @@ Thank you</p>	</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
+												<img class="img-circle" src="images/au/Yuan.jing.png" alt="">
 												<p>Yuan jing<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
@@ -890,7 +890,7 @@ Thank you</p>	</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
+												<img class="img-circle" src="images/au/Dana.fraser.png" alt="">
 												<p>Dana Fraser<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
@@ -917,7 +917,7 @@ Thank you</p>	</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
+												<img class="img-circle" src="images/au/Wendy.cown.buynex.png" alt="">
 												<p>Wendy Kwon<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
@@ -944,7 +944,7 @@ Thank you</p>	</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
+												<img class="img-circle" src="images/au/Andreas.festring.buynex.png" alt="">
 												<p>Andreas Festring<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
@@ -971,7 +971,7 @@ Thank you</p>	</div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="testimonials-author">
-												<img class="img-circle" src="images/review-author-img.png" alt="">
+												<img class="img-circle" src="images/au/Robin.craus.buynex.png" alt="">
 												<p>Robin Kraus<span>Chief Marketing Officer</span></p>
 											</div>
 										</div>
