@@ -13,13 +13,9 @@ echo'
 							<div class="container">
 							
 								<h2  dir="ltr" align="left">A fixed<br>and monthly<br><span class="color-default">income, my smile to life</span></h2>
-								<p  dir="ltr" align="left" class="color-white">Buynex is exactly what you were looking for.
-
-Buynex is exactly what you were looking for
+								<p  dir="ltr" align="left" class="color-white">Buynex is exactly what you were looking for.</p>
 
 
-
-</p>
 
 
 
