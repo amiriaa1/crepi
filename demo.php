@@ -29,25 +29,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	
 }
 
-echo'
+ ?>
+
 <script>
-const input = document.querySelector("#number");
-input.addEventListener("keyup", function(e) {
+const input = document.querySelector('#number');
+input.addEventListener('keyup', function(e) {
   let value = e.target.value;
-  value = Number(value.replaceAll(",", ""));
+  value = Number(value.replaceAll(',', ''));
   if(isNaN(value)) {
     input.value = 0;
   }else {
-    const formatValue = value.toLocaleString("ko-KR");
+    const formatValue = value.toLocaleString('ko-KR');
     input.value = formatValue;
   }
 })
 </script>
-';
-
- ?>
-
-
 <input type="text" id="number"/>
 
 <link rel="stylesheet" href="app.css">
