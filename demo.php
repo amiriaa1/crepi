@@ -31,20 +31,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
  ?>
 
-<script type="text/javascript">
-const input = document.querySelector('#number');
-input.addEventListener('keyup', function(e) {
-  let value = e.target.value;
-  value = Number(value.replaceAll(',', ''));
-  if(isNaN(value)) {
-    input.value = 0;
-  }else {
-    const formatValue = value.toLocaleString('ko-KR');
-    input.value = formatValue;
-  }
-})
-</script>
-<input type="text" id="number"/>
 
 <link rel="stylesheet" href="app.css">
 
@@ -102,5 +88,25 @@ input.addEventListener('keyup', function(e) {
 			</div>
 		<?php } ?>
 	</div>
+	
+
+
+
+	<script src="js/vendors.min.js"></script>
+	
+	<!-- Formatter -->
+	<script src="assets/vendor_components/formatter/formatter.js"></script>
+	<script src="assets/vendor_components/formatter/jquery.formatter.js"></script>		
+	
+	<!-- Crypto Admin App -->
+	<script src="js/jquery.smartmenus.js"></script>
+	<script src="js/menus.js"></script>
+	<script src="js/template.js"></script>
+	
+	<!-- Crypto Admin for demo purposes -->
+	<script src="js/demo.js"></script>
+	
+	<script src="js/pages/formatter.js"></script>
+	
 </body>
 </html>
