@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
  ?>
 
-<script>
+<script type="text/javascript">
 const input = document.querySelector('#number');
 input.addEventListener('keyup', function(e) {
   let value = e.target.value;
