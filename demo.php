@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 
 echo'
-
+<script>
 const input = document.querySelector("#number");
 input.addEventListener("keyup", function(e) {
   let value = e.target.value;
@@ -42,7 +42,7 @@ input.addEventListener("keyup", function(e) {
     input.value = formatValue;
   }
 })
-
+</script>
 ';
 
  ?>
