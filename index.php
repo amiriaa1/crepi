@@ -769,7 +769,7 @@ Thank you</p>	</div>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="testimonials-author">
-											<img class="img-circle" src="images/au/review-author-img.png" alt="what do you know about our investors">
+											<img class="img-circle" src="images/review-author-img.png" alt="what do you know about our investors">
 											<p>Alison Wu<span>Chief Marketing Officer</span></p>
 										</div>
 									</div>
