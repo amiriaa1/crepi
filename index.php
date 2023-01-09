@@ -743,7 +743,7 @@ Thank you</p>	</div>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="testimonials-author">
-											<img class="img-circle" src="images/au/Miss.anna.buynex.png" alt="idea and notion of our investors">
+											<img class="img-circle" src="images/au/Alison.wu.buynex.png" alt="idea and notion of our investors">
 											<p>Miss Anna<span>Chief Marketing Officer</span></p>
 										</div>
 									</div>
